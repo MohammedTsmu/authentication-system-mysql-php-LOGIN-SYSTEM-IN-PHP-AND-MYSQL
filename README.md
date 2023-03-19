@@ -40,3 +40,9 @@ script is in `password_reset.php`
 
 <hr />
 <small>Give this a project ⭐ if you found it useful, and follow me for more interesting future projects</small>
+
+
+![SIGN UP](https://user-images.githubusercontent.com/87497268/226151756-a05cb98e-983f-4e14-89f7-be73bce44e49.png)
+![LOGIN](https://user-images.githubusercontent.com/87497268/226151758-086f6283-e90a-4da8-820a-1e0c70f71fa3.png)
+![WELCOME](https://user-images.githubusercontent.com/87497268/226151762-5e552d91-cfee-4088-9d35-08e03a42b4e8.png)
+![RESET PASSWORD](https://user-images.githubusercontent.com/87497268/226151765-d7882815-c780-4966-8ff8-a1b4f6d50f7a.png)
